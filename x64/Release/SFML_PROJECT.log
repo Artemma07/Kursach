@@ -1,0 +1,53 @@
+﻿  Source.cpp
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(15,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(16,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(17,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(42,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(43,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(45,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(46,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(48,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(49,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(53,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(53,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(56,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(56,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(59,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(59,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(63,45): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(63,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(64,45): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(64,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(65,45): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(65,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(68,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Artem\source\repos\SFML_PROJECT\Source.cpp(68,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  SFML_PROJECT.vcxproj -> C:\Users\Artem\source\repos\SFML_PROJECT\x64\Release\SFML_PROJECT.exe
