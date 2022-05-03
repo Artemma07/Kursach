@@ -8,21 +8,16 @@ int main() {
     setlocale(0, "Rus");
 
     sf::ContextSettings settings;
-    settings.antialiasingLevel = 8;// сглаживание
+    settings.antialiasingLevel = 8;// Г±ГЈГ«Г Г¦ГЁГўГ Г­ГЁГҐ
     sf::RenderWindow window(sf::VideoMode(800, 800), "SFML Application", sf::Style::Default, settings );
     
     float storona;
     float speedygonzales;
-    cout << "Введите сторону правильного треугольника : " << endl;
+    cout << "Enter a length of side of perfect triangle  : " << endl;
     cin >>  storona;
-    cout << "Введите скорость вращения : " << endl;
+    cout << "Enter a speed of rotation : " << endl;
     cin >> speedygonzales;
-    float tick = 1;
 
-    RectangleShape rectangle;
-    rectangle.setFillColor(Color::Cyan);
-    rectangle.setSize(Vector2f(100.f, 50.f));
-    rectangle.setOrigin(50.f, 25.f);
 
     CircleShape circle;
     circle.setFillColor(Color::Red);
@@ -84,12 +79,10 @@ int main() {
         
         window.draw(triangle);
 
-        window.draw(rectangle);
         window.draw(circle);
         window.display();
 
         sf::sleep(sf::milliseconds(10));
-        tick++;
     }
 
 }
